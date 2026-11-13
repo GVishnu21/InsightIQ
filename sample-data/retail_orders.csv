@@ -1,0 +1,183 @@
+order_date,region,category,channel,customer_segment,units,unit_price,discount,revenue,margin
+2025-01-02,South,Laptops,Online,Small Business,3,1320,0.1,3564.0,553.51
+2025-01-05,Central,Laptops,Wholesale,Small Business,2,970,0.05,1843.0,271.91
+2025-01-06,East,Accessories,Partner,Consumer,7,65,0.15,386.75,171.12
+2025-01-07,East,Tablets,Retail Store,Consumer,2,320,0.15,544.0,118.1
+2025-01-07,West,Accessories,Online,Small Business,17,60,0.1,918.0,270.99
+2025-01-08,South,Tablets,Retail Store,Consumer,4,265,0.0,1060.0,158.26
+2025-01-11,East,Monitors,Retail Store,Small Business,3,200,0.2,480.0,51.14
+2025-01-12,North,Laptops,Wholesale,Enterprise,89,1200,0.15,90780.0,15432.6
+2025-01-13,South,Accessories,Wholesale,Small Business,14,50,0.1,630.0,226.17
+2025-01-14,North,Laptops,Wholesale,Small Business,2,1395,0.0,2790.0,376.08
+2025-01-15,West,Monitors,Wholesale,Consumer,2,235,0.15,399.5,66.65
+2025-01-16,South,Phones,Partner,Enterprise,5,420,0.0,2100.0,491.44
+2025-01-17,East,Phones,Wholesale,Enterprise,4,875,0.05,3325.0,566.23
+2025-01-17,Central,Laptops,Wholesale,Small Business,2,1160,0.2,1856.0,367.77
+2025-01-17,West,Accessories,Retail Store,Consumer,12,50,0.05,570.0,169.29
+2025-01-17,South,Accessories,Wholesale,Consumer,17,30,0.0,510.0,-151.46
+2025-01-18,Central,Laptops,Online,Consumer,2,1010,0.1,1818.0,343.55
+2025-01-18,North,Accessories,Online,Consumer,5,50,0.1,225.0,68.34
+2025-01-20,West,Monitors,Wholesale,,3,185,0.1,499.5,79.56
+2025-01-21,North,Accessories,Online,Enterprise,15,65,0.2,780.0,274.22
+2025-01-23,Central,Phones,Partner,Enterprise,4,645,0.15,2193.0,343.12
+2025-01-24,North,Monitors,Online,Consumer,3,340,0.2,816.0,138.9
+2025-01-24,East,Monitors,Partner,Consumer,6,430,0.2,2064.0,231.93
+2025-01-26,East,Accessories,Online,Small Business,20,65,0.1,1170.0,510.35
+2025-01-26,East,Monitors,Online,Enterprise,1,275,0.05,261.25,35.44
+2025-01-28,West,Phones,Partner,Consumer,4,520,0.2,1664.0,267.22
+2025-01-30,South,Monitors,Wholesale,Enterprise,2,195,0.2,312.0,36.25
+2025-01-30,North,Phones,Online,Consumer,1,475,0.1,427.5,73.23
+2025-01-30,South,Laptops,Wholesale,Small Business,3,1255,0.15,3200.25,630.05
+2025-01-31,,Accessories,Online,Consumer,8,20,0.1,144.0,55.13
+2025-02-03,East,Phones,Wholesale,Enterprise,1,425,0.05,403.75,64.25
+2025-02-04,Central,Accessories,Wholesale,Enterprise,3,20,0.2,48.0,20.37
+2025-02-05,North,Accessories,Wholesale,Small Business,16,55,0.15,748.0,324.9
+2025-02-06,South,Tablets,Partner,Consumer,4,385,0.15,1309.0,239.56
+2025-02-06,South,Phones,Partner,,3,515,0.05,1467.75,325.68
+2025-02-08,East,Phones,Wholesale,Consumer,2,875,0.15,1487.5,307.92
+2025-02-11,East,Accessories,Wholesale,Consumer,6,55,0.2,264.0,108.84
+2025-02-11,North,Laptops,Wholesale,Enterprise,70,1200,0.15,71400.0,12138.0
+2025-02-12,North,Monitors,Wholesale,Enterprise,5,175,0.2,700.0,101.55
+2025-02-13,South,Accessories,Wholesale,Small Business,24,65,0.2,1248.0,370.79
+2025-02-14,East,Monitors,Retail Store,Small Business,2,200,0.1,360.0,56.36
+2025-02-20,Central,Accessories,Partner,Consumer,12,45,0.05,513.0,154.45
+2025-02-20,West,Laptops,Online,Consumer,4,1295,0.1,4662.0,926.65
+2025-02-20,South,Accessories,Retail Store,Consumer,17,35,0.15,505.75,155.06
+2025-02-20,West,Accessories,Online,Enterprise,19,45,0.05,812.25,341.51
+2025-02-22,West,Tablets,Wholesale,Enterprise,4,380,0.15,1292.0,194.66
+2025-02-23,East,Accessories,Online,Consumer,4,55,0.0,220.0,79.59
+2025-02-25,East,Accessories,Retail Store,Consumer,18,35,0.2,504.0,224.44
+2025-02-26,Central,Accessories,Partner,Enterprise,10,20,0.2,160.0,47.86
+2025-02-28,North,Accessories,Partner,Enterprise,8,60,0.0,480.0,136.91
+2025-02-28,North,Phones,Online,Small Business,6,470,0.15,2397.0,377.72
+2025-03-01,West,Laptops,Partner,Consumer,5,930,0.2,3720.0,724.66
+2025-03-02,West,Laptops,Wholesale,Enterprise,5,1380,0.2,5520.0,713.47
+2025-03-04,West,Laptops,Partner,Small Business,4,975,0.15,3315.0,646.23
+2025-03-06,South,Laptops,Online,Enterprise,1,1340,0.0,1340.0,235.22
+2025-03-07,Central,Laptops,Online,Small Business,4,1270,0.0,5080.0,711.32
+2025-03-08,East,Laptops,Partner,Small Business,2,1010,0.2,1616.0,278.54
+2025-03-09,East,Laptops,Retail Store,Small Business,4,1470,0.1,5292.0,945.09
+2025-03-09,,Accessories,Wholesale,Consumer,12,25,0.1,270.0,82.12
+2025-03-12,West,Phones,Retail Store,Small Business,3,550,0.15,1402.5,273.16
+2025-03-14,South,Phones,Wholesale,Consumer,6,510,0.1,2754.0,553.39
+2025-03-15,West,Phones,Partner,Small Business,1,685,0.05,650.75,142.25
+2025-03-15,East,Phones,Partner,Consumer,3,795,0.1,2146.5,439.52
+2025-03-16,East,Monitors,Wholesale,Small Business,6,415,,2490.0,395.89
+2025-03-16,North,Phones,Online,Enterprise,3,820,0.1,2214.0,353.14
+2025-03-17,South,Phones,Online,Small Business,1,565,0.1,508.5,79.05
+2025-03-20,North,Accessories,Online,Consumer,11,70,0.05,731.5,252.87
+2025-03-20,South,Accessories,,Small Business,16,80,0.1,,468.83
+2025-03-20,North,Phones,Wholesale,Consumer,3,720,0.0,2160.0,368.12
+2025-03-26,Central,Tablets,Online,Small Business,3,480,0.2,1152.0,239.04
+2025-03-21,West,Accessories,Partner,Enterprise,14,80,0.2,896.0,273.72
+2025-03-21,West,Phones,,Consumer,2,595,0.0,1190.0,
+2025-03-21,South,Laptops,Online,Consumer,3,1445,0.2,3468.0,574.67
+2025-03-21,South,Tablets,Wholesale,Small Business,1,425,0.0,425.0,84.33
+2025-03-22,South,Monitors,Online,Small Business,7,380,,2261.0,289.06
+2025-03-22,Central,Accessories,Retail Store,Enterprise,14,45,0.15,535.5,206.53
+2025-03-23,East,Accessories,Retail Store,Consumer,13,35,0.1,409.5,144.04
+2025-03-23,South,Accessories,Retail Store,Consumer,10,55,0.0,550.0,245.82
+2025-03-25,North,Phones,Partner,Consumer,2,555,0.0,1110.0,248.2
+2025-03-25,East,Laptops,Wholesale,Enterprise,74,1200,0.15,75480.0,12831.6
+2025-03-25,North,Accessories,Wholesale,Small Business,20,65,0.1,1170.0,420.28
+2025-03-26,Central,Tablets,Online,Small Business,3,480,0.2,1152.0,239.04
+2025-03-26,West,Phones,Online,Consumer,2,460,0.05,874.0,219.87
+2025-06-20,West,Phones,Partner,Consumer,4,555,0.1,1998.0,307.9
+2025-03-27,West,Phones,Partner,Small Business,2,890,0.1,1602.0,373.91
+2025-03-27,South,Accessories,Online,Consumer,3,70,0.05,199.5,59.78
+2025-03-28,Central,Monitors,Partner,Enterprise,6,365,0.15,1861.5,201.61
+2025-04-01,North,Laptops,Wholesale,Small Business,4,1275,0.05,4845.0,876.27
+2025-04-01,West,Laptops,Retail Store,Enterprise,4,1140,0.2,3648.0,562.49
+2025-04-01,South,Accessories,Partner,Consumer,6,35,0.15,178.5,78.47
+2025-04-02,West,Laptops,Retail Store,Enterprise,4,950,0.05,3610.0,541.52
+2025-04-02,,Phones,Partner,Small Business,5,470,0.0,2350.0,500.38
+2025-04-03,North,Phones,Online,Consumer,2,860,0.1,1548.0,269.35
+2025-04-06,South,Laptops,Partner,Consumer,2,1170,0.2,1872.0,381.32
+2025-04-09,Central,Monitors,Retail Store,Consumer,8,310,0.05,2356.0,391.95
+2025-04-09,West,Phones,Partner,Consumer,2,770,0.05,1463.0,260.26
+2025-04-11,South,Phones,Online,Small Business,3,480,0.2,1152.0,266.8
+2025-04-11,West,Phones,Wholesale,Enterprise,4,640,0.2,2048.0,498.39
+2025-04-11,North,Monitors,Retail Store,Enterprise,2,205,0.1,369.0,51.52
+2025-04-11,North,Phones,Wholesale,Consumer,4,420,0.2,1344.0,239.72
+2025-04-12,South,Laptops,Online,Consumer,2,1175,0.1,2115.0,332.36
+2025-04-13,South,Laptops,Online,Consumer,1,1320,0.1,1188.0,189.78
+2025-04-13,North,Laptops,Online,Consumer,3,965,0.2,2316.0,354.3
+2025-04-13,South,Phones,Wholesale,Consumer,4,790,0.1,2844.0,506.25
+2025-04-13,South,Phones,Online,Consumer,3,740,,2109.0,420.99
+2025-04-15,North,Monitors,Online,Enterprise,8,195,0.15,1326.0,-104.04
+2025-04-20,West,Laptops,Retail Store,Small Business,1,920,0.0,920.0,159.9
+2025-04-24,West,Accessories,,Consumer,7,15,0.05,99.75,41.81
+2025-04-25,East,Accessories,Wholesale,Enterprise,7,30,0.2,168.0,57.97
+2025-04-25,West,Monitors,Wholesale,Consumer,5,245,0.1,1102.5,146.57
+2025-04-26,South,Phones,Retail Store,Consumer,6,440,0.0,2640.0,596.09
+2025-04-27,Central,Monitors,Retail Store,Small Business,1,370,0.2,296.0,33.6
+2025-04-29,East,Laptops,Online,Consumer,1,1315,0.0,1315.0,167.46
+2025-04-29,Central,Accessories,Online,Enterprise,25,55,0.05,1306.25,491.82
+2025-04-30,East,Tablets,Online,Small Business,5,345,0.0,,371.33
+2025-05-01,Central,Laptops,Online,Consumer,2,1255,0.0,2510.0,440.44
+2025-05-01,West,Phones,Wholesale,Small Business,5,600,0.15,2550.0,640.96
+2025-05-01,West,Phones,Online,Small Business,4,655,0.2,2096.0,407.44
+2025-05-02,West,Laptops,Retail Store,Enterprise,4,1435,0.05,5453.0,765.89
+2025-05-03,North,Laptops,Wholesale,Consumer,1,1415,0.2,1132.0,209.89
+2025-05-04,West,Monitors,Partner,Small Business,4,265,0.1,954.0,136.87
+2025-05-04,West,Laptops,Wholesale,Consumer,4,1440,,4896.0,697.96
+2025-05-05,South,Tablets,Wholesale,Enterprise,2,260,0.2,416.0,73.01
+2025-05-07,East,Phones,Partner,Small Business,5,705,0.1,3172.5,782.35
+2025-05-07,South,Phones,Wholesale,Consumer,3,500,0.05,1425.0,316.02
+2025-05-07,North,Phones,Online,Small Business,1,875,0.15,743.75,179.41
+2025-05-07,East,Phones,Online,Consumer,6,500,0.0,3000.0,475.42
+2025-05-08,East,Phones,Partner,Consumer,3,880,0.05,2508.0,448.91
+2025-05-10,Central,Phones,Online,Enterprise,2,780,0.2,1248.0,309.94
+2025-05-10,East,Laptops,Retail Store,Consumer,5,985,0.2,3940.0,766.37
+2025-05-11,South,Tablets,Retail Store,Enterprise,4,440,0.0,1760.0,338.94
+2025-05-14,East,Tablets,Retail Store,Small Business,1,355,0.2,284.0,59.5
+2025-05-15,Central,Laptops,Partner,Consumer,3,1465,0.0,4395.0,
+2025-05-15,South,Laptops,Retail Store,Small Business,1,1150,0.0,1150.0,224.2
+2025-05-18,South,Monitors,Retail Store,Consumer,5,250,0.1,1125.0,189.51
+2025-05-18,East,Accessories,Partner,Small Business,7,65,0.05,432.25,162.78
+2025-05-18,Central,Phones,Online,Enterprise,3,465,0.0,1395.0,237.42
+2025-05-19,North,Phones,Retail Store,Consumer,3,505,0.0,1515.0,370.82
+2025-05-19,East,Phones,Partner,Consumer,1,705,0.1,634.5,159.81
+2025-05-20,North,Monitors,Retail Store,Enterprise,5,370,0.05,1757.5,225.04
+2025-05-21,West,Laptops,Online,Small Business,1,1105,0.15,939.25,134.47
+2025-05-21,North,Accessories,Partner,Enterprise,19,45,0.05,812.25,
+2025-05-22,North,Laptops,Wholesale,Consumer,4,1175,0.0,4700.0,943.15
+2025-05-22,,Phones,Retail Store,Small Business,4,765,0.15,2601.0,522.3
+2025-05-22,West,Accessories,,Consumer,14,35,0.0,490.0,176.86
+2025-05-22,East,Accessories,Wholesale,,22,65,0.05,1358.5,454.35
+2025-05-23,East,Accessories,Wholesale,Small Business,19,40,0.15,646.0,240.06
+2025-05-23,South,Accessories,Partner,Consumer,15,40,0.0,600.0,215.53
+2025-05-24,West,Laptops,Partner,Consumer,2,955,0.15,1623.5,247.5
+2025-05-25,South,Laptops,Wholesale,Small Business,4,1365,0.2,4368.0,596.14
+2025-05-25,West,Phones,Wholesale,Consumer,2,470,0.05,893.0,185.45
+2025-05-26,South,Tablets,Partner,Small Business,6,585,0.1,3159.0,533.38
+2025-05-26,North,Accessories,Partner,Enterprise,12,40,0.15,408.0,159.06
+2025-05-28,South,Phones,Wholesale,Small Business,3,870,0.2,2088.0,422.8
+2025-05-29,Central,Tablets,Wholesale,Enterprise,5,365,0.05,1733.75,395.36
+2025-05-29,East,Tablets,Wholesale,Consumer,6,520,0.05,2964.0,479.04
+2025-05-30,East,Tablets,Retail Store,Consumer,2,350,0.05,665.0,141.94
+2025-05-31,South,Monitors,Online,Small Business,4,200,0.05,760.0,122.85
+2025-05-31,South,Laptops,Retail Store,Consumer,4,1365,0.0,5460.0,756.05
+2025-05-31,Central,Phones,Wholesale,Consumer,6,710,0.2,3408.0,571.39
+2025-06-01,West,Tablets,Retail Store,Enterprise,3,345,0.2,828.0,129.06
+2025-06-02,West,Phones,Partner,Small Business,1,675,0.05,641.25,161.73
+2025-06-04,West,Accessories,Online,Consumer,3,50,0.0,150.0,54.45
+2025-06-04,South,Phones,Partner,Small Business,6,425,0.05,2422.5,572.63
+2025-06-04,West,Monitors,Partner,Consumer,4,275,0.05,1045.0,172.72
+2025-06-05,North,Laptops,Online,Small Business,5,1425,0.2,5700.0,749.37
+2025-06-05,West,Laptops,Online,Small Business,1,900,0.1,810.0,-113.64
+2025-06-10,West,Laptops,Wholesale,Small Business,1,990,0.0,990.0,190.43
+2025-06-11,South,Laptops,Retail Store,Small Business,3,1135,0.15,,540.56
+2025-06-12,North,Phones,,Small Business,5,585,0.1,2632.5,436.4
+2025-06-13,West,Laptops,Online,Enterprise,1,1005,0.0,1005.0,137.8
+2025-06-13,Central,Tablets,Retail Store,Enterprise,3,405,0.2,972.0,212.44
+2025-06-16,South,Laptops,Retail Store,Small Business,3,1030,0.15,2626.5,448.14
+2025-06-16,North,Monitors,Online,Small Business,6,365,0.1,1971.0,271.64
+2025-06-17,West,Laptops,Retail Store,Consumer,2,1150,0.15,1955.0,289.2
+2025-06-20,West,Phones,Partner,Consumer,4,555,0.1,1998.0,307.9
+2025-06-25,,Laptops,Wholesale,,4,1435,0.15,4879.0,802.9
+2025-06-25,East,Accessories,Online,Consumer,23,20,0.05,437.0,175.81
+2025-06-26,East,Laptops,Partner,Consumer,3,960,0.05,2736.0,535.39
+2025-06-27,South,Phones,Online,Consumer,2,580,0.05,1102.0,236.31
+2025-06-29,North,Laptops,,Consumer,1,1435,0.2,1148.0,202.26
+2025-06-30,West,Laptops,Wholesale,Small Business,1,1410,0.2,1128.0,233.19
